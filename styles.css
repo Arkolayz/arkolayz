@@ -7,6 +7,7 @@ body {
    border-left:5px solid #F98200;
    background: url("fondokaraoke.png");
    background-repeat: no-repeat;
+   background-size: 10%;
    color: #FFFFFF;
    line-height:26px !important;
    }
@@ -16,6 +17,7 @@ body {
       border-left: 5px solid #aa5050;
       background: url("ginfondo.png");
       background-repeat: no-repeat; 
+      background-size: 10%;
       color: #FFFFFF;
       line-height:26px !important;
       }
@@ -25,6 +27,7 @@ body {
       border-left: 5px solid #aaa150;
       background:url("whiskeyfondo.png");
       background-repeat: no-repeat;
+      background-size: 10%;
       color: #FFFFFF;
       line-height:26px !important;
       }
@@ -34,6 +37,7 @@ body {
       border-left: 5px solid #507aaa;
       background: url("vodkafondo.png");
       background-repeat: no-repeat;
+      background-size: 10%;
       color: #ffffff;
       line-height:26px !important;
    }
@@ -43,7 +47,7 @@ body {
       border-left: 5px solid #9850aa;
       background: url("lista.png");
       background-repeat: no-repeat;
-      background-size: contain;
+      background-size: 10%;
       color: #FFFFFF;
       line-height: 26px !important;
       margin-bottom: 50px;
@@ -104,24 +108,28 @@ p {
 .hr1 {
    height: 3px;
    background-color: #F98200;
+   background-size: 10%;
    border-color: transparent;
 }
 
 .hr2 {
    height: 3px;
    background-color: #aa5050;
+   background-size: 10%;
    border-color: transparent;
 }
 
 .hr3 {
    height: 3px;
    background-color: #aaa150;
+   background-size: 10%;
    border-color: transparent;
 }
 
 .hr4 {
    height: 3px;
    background-color: #507aaa;
+   background-size: 10%;
    border-color: transparent;
 }
 
