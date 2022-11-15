@@ -1,0 +1,138 @@
+body {
+   background: #000;
+}
+
+.titulodecada{
+   padding:15px 15px 20px 15px;
+   border-left:5px solid #F98200;
+   background: url("fondokaraoke.png");
+   background-repeat: no-repeat;
+   color: #FFFFFF;
+   line-height:26px !important;
+   }
+
+   .caja-destacada{
+      padding:15px 15px 20px 15px;
+      border-left: 5px solid #aa5050;
+      background: url("ginfondo.png");
+      background-repeat: no-repeat; 
+      color: #FFFFFF;
+      line-height:26px !important;
+      }
+
+   .caja-destacada2{
+      padding:15px 15px 20px 15px;
+      border-left: 5px solid #aaa150;
+      background:url("whiskeyfondo.png");
+      background-repeat: no-repeat;
+      color: #FFFFFF;
+      line-height:26px !important;
+      }
+
+   .caja-destacada3{
+      padding: 15px 15px 20px 15px;
+      border-left: 5px solid #507aaa;
+      background: url("vodkafondo.png");
+      background-repeat: no-repeat;
+      color: #ffffff;
+      line-height:26px !important;
+   }
+
+   .caja-destacada4{
+      padding: 15px 15px 20px 15px;
+      border-left: 5px solid #9850aa;
+      background: url("lista.png");
+      background-repeat: no-repeat;
+      background-size: contain;
+      color: #FFFFFF;
+      line-height: 26px !important;
+      margin-bottom: 50px;
+   }
+
+.icons {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
+
+hr {
+   height: 1px;
+   width: 10px;
+   background: red;
+   border: transparent;
+}
+
+h1 {
+   font-family: sans-serif;
+   text-align: center;
+}
+
+.h22 {
+   font-family: 'Lucida Sans';
+   text-align: center;
+   color: #aa5050;
+}
+
+.h23 {
+   font-family: 'Lucida Sans';
+   text-align: center;
+   color: #aaa150;
+}
+
+.h24 {
+   font-family: 'Lucida Sans';
+   text-align: center;
+   color:  #507aaa;
+}
+
+.h25 {
+   font-family: 'Lucida Sans';
+   text-align: center;
+   color:  #9850aa;
+}
+
+h5 {
+   font-family: 'Lucida Sans';
+   text-align: center;
+}
+
+p {
+   font-family: monospace;
+   text-align: center;
+}
+
+.hr1 {
+   height: 3px;
+   background-color: #F98200;
+   border-color: transparent;
+}
+
+.hr2 {
+   height: 3px;
+   background-color: #aa5050;
+   border-color: transparent;
+}
+
+.hr3 {
+   height: 3px;
+   background-color: #aaa150;
+   border-color: transparent;
+}
+
+.hr4 {
+   height: 3px;
+   background-color: #507aaa;
+   border-color: transparent;
+}
+
+A:link {
+   color: unset; text-decoration: none 
+}
+
+A:visited {
+   color: unset; text-decoration: none;
+}
+
+A:hover { 
+   color: unset; text-decoration: none 
+}
