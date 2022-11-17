@@ -1,0 +1,76 @@
+body {
+    background: black;
+}
+
+.sel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+}
+
+.generalsel{
+    display: flex;
+    flex-direction: center;
+}
+
+.namesel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+}
+
+.encabezadobebidas {
+    display: flex;
+    border-left: 5px solid rgb(55, 95, 87);
+    line-height: 100px !important;
+}
+
+.encabezadobebidas2 {
+    display: flex;
+    border-left: 5px solid rgb(95, 88, 55);
+    line-height: 100px !important;
+}
+
+.encabezadobebidas3 {
+    display: flex;
+    border-left: 5px solid rgb(95, 55, 55);
+    line-height: 100px !important;
+}
+
+.encabezadobebidas4 {
+    display: flex;
+    border-left: 5px solid rgb(95, 55, 93);
+    line-height: 100px !important;
+}
+
+
+.noestimg { 
+    align-self: center; 
+}
+
+.textobebidas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    line-height: 10px;
+    font-family: monospace;
+}
+
+hr {
+    background: rgb(90, 11, 11);
+    width: 10px;
+    border-color: transparent;
+    margin-left: 0px;
+}
+
+h2 {
+    font-family: 'Lucida Sans';
+    color: white;
+}
+
+p {
+    color: white;
+}
